@@ -1,6 +1,6 @@
 Unraveling the Mysteries of Model Decisions with t-SNE
 In our journey through the fascinating world of AI with the fastai course, we've encountered a treasure trove of tools for peeling back the layers of neural network decision-making. Today, I'd like to take you through a particularly revealing technique: t-SNE visualization.
-
+![image](https://github.com/RosenC1/Jiacheng-s-CV-Assignment/assets/168141223/013d52aa-7cee-4ebf-bef5-c3df6a2bf75e)
 
 This colorful scatter plot might look like abstract art, but it's actually a window into how a classification model perceives different categories of images. The technique reduces complex, high-dimensional data into a 2D space, clustering data points (in this case, images) such that similar items are grouped together.
 ![image](https://github.com/RosenC1/Jiacheng-s-CV-Assignment/assets/168141223/e5d55459-8a87-44aa-8011-06c0ac44fb1b)
